@@ -1,0 +1,10 @@
+.ant-btn.ant-btn-primary.addBtn {
+  border-radius: 30px;
+  width: 100px;
+  margin: 0 1px;
+}
+
+.ant-btn.ant-btn-default.cancelBtn {
+  width: 100px;
+  margin-right: 10px;
+}

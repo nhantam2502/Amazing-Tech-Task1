@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+}
+
+.logo {
+  margin-right: 180px;
+}
+
+.logo-img {
+  width: 180px;
+  height: 90px;
+  display: flex;
+  margin-left: 30px;
+}
+
+.menu {
+  margin-top: 14px;
+  padding-bottom: 5px;
+  margin-left: 100px;
+}
+
+/* .ant-menu-horizontal {
+    display: flex;
+    justify-content: center;
+  } */
